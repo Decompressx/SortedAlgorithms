@@ -1,0 +1,11 @@
+C:\LocalRepository\SortedAlgorothms\SortedAlgorothms\bin\Debug\netcoreapp2.1\SortedAlgorothms.deps.json
+C:\LocalRepository\SortedAlgorothms\SortedAlgorothms\bin\Debug\netcoreapp2.1\SortedAlgorothms.runtimeconfig.json
+C:\LocalRepository\SortedAlgorothms\SortedAlgorothms\bin\Debug\netcoreapp2.1\SortedAlgorothms.runtimeconfig.dev.json
+C:\LocalRepository\SortedAlgorothms\SortedAlgorothms\bin\Debug\netcoreapp2.1\SortedAlgorothms.dll
+C:\LocalRepository\SortedAlgorothms\SortedAlgorothms\bin\Debug\netcoreapp2.1\SortedAlgorothms.pdb
+C:\LocalRepository\SortedAlgorothms\SortedAlgorothms\obj\Debug\netcoreapp2.1\SortedAlgorothms.csprojAssemblyReference.cache
+C:\LocalRepository\SortedAlgorothms\SortedAlgorothms\obj\Debug\netcoreapp2.1\SortedAlgorothms.csproj.CoreCompileInputs.cache
+C:\LocalRepository\SortedAlgorothms\SortedAlgorothms\obj\Debug\netcoreapp2.1\SortedAlgorothms.AssemblyInfoInputs.cache
+C:\LocalRepository\SortedAlgorothms\SortedAlgorothms\obj\Debug\netcoreapp2.1\SortedAlgorothms.AssemblyInfo.cs
+C:\LocalRepository\SortedAlgorothms\SortedAlgorothms\obj\Debug\netcoreapp2.1\SortedAlgorothms.dll
+C:\LocalRepository\SortedAlgorothms\SortedAlgorothms\obj\Debug\netcoreapp2.1\SortedAlgorothms.pdb

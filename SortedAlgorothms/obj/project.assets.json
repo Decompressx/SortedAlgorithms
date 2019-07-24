@@ -695,11 +695,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\LocalRepository\\SearchElement\\SearchElement\\SearchElement.csproj",
-      "projectName": "SearchElement",
-      "projectPath": "C:\\LocalRepository\\SearchElement\\SearchElement\\SearchElement.csproj",
+      "projectUniqueName": "C:\\LocalRepository\\SortedAlgorothms\\SortedAlgorothms\\SortedAlgorothms.csproj",
+      "projectName": "SortedAlgorothms",
+      "projectPath": "C:\\LocalRepository\\SortedAlgorothms\\SortedAlgorothms\\SortedAlgorothms.csproj",
       "packagesPath": "C:\\Users\\Demig\\.nuget\\packages\\",
-      "outputPath": "C:\\LocalRepository\\SearchElement\\SearchElement\\obj\\",
+      "outputPath": "C:\\LocalRepository\\SortedAlgorothms\\SortedAlgorothms\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",

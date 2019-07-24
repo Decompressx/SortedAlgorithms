@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v2.1": {
-      "SearchElement/1.0.0": {
+      "SortedAlgorothms/1.0.0": {
         "runtime": {
-          "SearchElement.dll": {}
+          "SortedAlgorothms.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "SearchElement/1.0.0": {
+    "SortedAlgorothms/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

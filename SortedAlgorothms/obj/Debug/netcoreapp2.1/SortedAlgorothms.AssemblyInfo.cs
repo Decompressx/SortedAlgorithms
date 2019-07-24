@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("SearchElement")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("SortedAlgorothms")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("SearchElement")]
-[assembly: System.Reflection.AssemblyTitleAttribute("SearchElement")]
+[assembly: System.Reflection.AssemblyProductAttribute("SortedAlgorothms")]
+[assembly: System.Reflection.AssemblyTitleAttribute("SortedAlgorothms")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Создано классом WriteCodeFragment MSBuild.

@@ -2,11 +2,11 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace SearchElement
+namespace SortedAlgorothms
 {
-    public abstract class SearchAlg
+    abstract class SortedAlg
     {
         protected int[] array;
-        public abstract int Search(int element);
+        public abstract int[] Sort();
     }
 }
