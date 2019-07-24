@@ -1,0 +1,11 @@
+C:\LocalRepository\SearchElement\SearchElement\bin\Debug\netcoreapp2.1\SearchElement.deps.json
+C:\LocalRepository\SearchElement\SearchElement\bin\Debug\netcoreapp2.1\SearchElement.runtimeconfig.json
+C:\LocalRepository\SearchElement\SearchElement\bin\Debug\netcoreapp2.1\SearchElement.runtimeconfig.dev.json
+C:\LocalRepository\SearchElement\SearchElement\bin\Debug\netcoreapp2.1\SearchElement.dll
+C:\LocalRepository\SearchElement\SearchElement\bin\Debug\netcoreapp2.1\SearchElement.pdb
+C:\LocalRepository\SearchElement\SearchElement\obj\Debug\netcoreapp2.1\SearchElement.csprojAssemblyReference.cache
+C:\LocalRepository\SearchElement\SearchElement\obj\Debug\netcoreapp2.1\SearchElement.csproj.CoreCompileInputs.cache
+C:\LocalRepository\SearchElement\SearchElement\obj\Debug\netcoreapp2.1\SearchElement.AssemblyInfoInputs.cache
+C:\LocalRepository\SearchElement\SearchElement\obj\Debug\netcoreapp2.1\SearchElement.AssemblyInfo.cs
+C:\LocalRepository\SearchElement\SearchElement\obj\Debug\netcoreapp2.1\SearchElement.dll
+C:\LocalRepository\SearchElement\SearchElement\obj\Debug\netcoreapp2.1\SearchElement.pdb
